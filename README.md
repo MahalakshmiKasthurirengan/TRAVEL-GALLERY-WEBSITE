@@ -18,7 +18,7 @@ Installation ⚙️
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/travel-gallery.git
+git clone https://github.com/MahalakshmiKasthurirengan/travel-gallery.git
 cd travel-gallery
 
 2. Install Dependencies
