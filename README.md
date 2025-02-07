@@ -29,17 +29,17 @@ cd travel-gallery
 2. Install Dependencies
 
 Frontend
-
+```
 cd frontend
 
 npm install
-
+```
 Backend
-
+```
 cd backend
 
 npm install
-
+```
 3. Configure MongoDB Connection
 
 Update the config.json file located in backend/config.json with your MongoDB connection string:
@@ -52,17 +52,17 @@ Update the config.json file located in backend/config.json with your MongoDB con
 4. Run the Application
    
 Start Backend Server
-
+```
 cd backend
 
 npm start
-
+```
 Start Frontend Server
-
+```
 cd frontend
 
 npm start
-
+```
 
 Technologies Used 🛠️
 
